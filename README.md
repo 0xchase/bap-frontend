@@ -10,6 +10,7 @@ High level frontend for BAP, written in Rust
 ## Intermediate Features
  - Frontend for managing projects
  - Frontend for interfacing with knowlege base
+ - Debugger based on radare2
 
 ## Advanced Features
  - Translate BAP IR to LLVM, rewrite binary, run LLVM analysis
