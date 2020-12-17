@@ -1,2 +1,19 @@
-# bap-frontend
+# BAP Frontend
 High level frontend for BAP, written in Rust
+
+## Basic Features
+ - Simple interface for getting symbols, disassembling, lifting, etc
+ - Frontend for emulator
+ - Frontend for taint engine
+ - Frontend for symbolic executor
+ 
+## Intermediate Features
+ - Frontend for managing projects
+ - Frontend for interfacing with knowlege base
+
+## Advanced Features
+ - Translate BAP IR to LLVM, rewrite binary, run LLVM analysis
+
+## UI
+ - Integrations for radare2, binaryninja, ghidra
+ 
