@@ -14,7 +14,7 @@ High level frontend for BAP, written in Rust
 
 ## Advanced Features
  - Translate BAP IR to LLVM, rewrite binary, run LLVM analysis
- - Record an execution, use bap to analyze it. Inspiration [here](https://youtu.be/OW3tGGN4eBU)
+ - Record an execution, use bap to analyze it. Inspiration [here](https://youtu.be/OW3tGGN4eBU). Build on panda-re's panda framework.
 
 ## UI
  - Integrations for radare2, binaryninja, ghidra
